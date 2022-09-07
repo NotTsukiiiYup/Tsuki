@@ -10,7 +10,8 @@
   place-items: center;
   transition: 1s,1s;
   border-radius: 8px;
-  border: solid
+  border: solid 2px ;
+
   
 }
 .cat-button:hover
@@ -18,4 +19,8 @@
   color: #A2D2FF;
   background-color: white;
   font-weight: bold;
+}
+*
+{
+  background-color:azure;
 }
